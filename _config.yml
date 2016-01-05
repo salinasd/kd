@@ -6,6 +6,8 @@ url: "http://kitdigital.gob.cl"
 twitter_username: GobiernodeChile
 # github_username:  e-gob
 
+baseurl: /kd
+
 # Build settings
 # markdown: kramdown
 permalink: pretty
