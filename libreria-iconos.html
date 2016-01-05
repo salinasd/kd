@@ -7,7 +7,7 @@ custom-class: single-manual
 
 <div class="item" id="manual-normas-graficas">
   <div class="icono">
-     <img src="/assets/img/icono-libreria-iconos.png">
+     <img src="{{ site.baseurl }}/assets/img/icono-libreria-iconos.png">
   </div>
   <h3>Librería íconos</h3>
   <p>Aquí podrás descargar ilustraciones e íconos para ser utilizados tanto en las piezas gráficas de redes sociales como para impresos.<br>
@@ -23,7 +23,7 @@ custom-class: single-manual
     <h4>{{ entry.grupo }}</h4>
     <ul>
       {% for item in entry.items %}
-      <li><a {% if item.archivo %}href="/archivos/{{ item.archivo }}" class="descarga js-track" data-ga-category="descargas_manual" data-ga-action="click" data-ga-label="{{ item.ga_label }}" download {% else %} class="disabled" {% endif %}>{{ item.nombre }}</a></li>
+      <li><a {% if item.archivo %}href="{{ site.baseurl }}/archivos/{{ item.archivo }}" class="descarga js-track" data-ga-category="descargas_manual" data-ga-action="click" data-ga-label="{{ item.ga_label }}" download {% else %} class="disabled" {% endif %}>{{ item.nombre }}</a></li>
       {% endfor %}
 
     </ul>
