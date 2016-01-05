@@ -1,0 +1,181 @@
+// scss-lint:disable VendorPrefix ColorVariable
+
+// Colores
+$back: #e6e6e6;
+$backalt: #efefef;
+$blue: #0168b3;
+$red: #ee3a43;
+$lightgrey: #bdc9d1;
+$grey: #7a8791;
+$darkgrey: #475156;
+$darkestgrey: #2e353a;
+
+// Mixins
+@mixin transition($sec) {
+  -webkit-transition: $sec;
+  -moz-transition: $sec;
+  -ms-transition: $sec;
+  -o-transition: $sec;
+  transition: $sec;
+}
+
+// Helpers
+.cf::after {
+  clear: both;
+  content: '.';
+  display: block;
+  height: 0;
+  visibility: hidden;
+}
+
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+
+.bicolor {
+  min-height: 1px;
+  position: relative;
+
+  span {
+    display: block;
+    float: left;
+    height: 100%;
+    width: 50%;
+
+    &.blue {
+      background: $blue;
+    }
+
+    &.red {
+      background: $red;
+    }
+  }
+}
+
+.sep {
+  border-bottom: 1px solid $back;
+  height: 0;
+  width: 100%;
+}
+
+// Fonts
+
+@font-face {
+  font-family: 'gobCL';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../fonts/gobcl_light.eot?') format('eot'),
+  url('../fonts/gobcl_light.woff') format('woff'),
+  url('../fonts/gobcl_light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'gobCL';
+  font-weight: 500;
+  font-style: normal;
+  src: url('../fonts/gobcl_regular.eot?') format('eot'),
+  url('../fonts/gobcl_regular.woff') format('woff'),
+  url('../fonts/gobcl_regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'gobCL';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/gobcl_bold.eot?') format('eot'),
+  url('../fonts/gobcl_bold.woff') format('woff'),
+  url('../fonts/gobcl_bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'gobCL';
+  font-weight: 900;
+  font-style: normal;
+  src: url('../fonts/gobcl_heavy.eot?') format('eot'),
+  url('../fonts/gobcl_heavy.woff') format('woff'),
+  url('../fonts/gobcl_heavy.ttf') format('truetype');
+}
+
+@mixin gobcl {
+  font-family: 'gobCL', Tahoma, Verdana, Segoe, sans-serif;
+}
+
+@mixin georgia {
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+@mixin opensans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+// Básicos
+body {
+  background: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+a {
+  @include transition(.1s);
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+
+  img {
+    float: left;
+  }
+}
+
+menu,
+ol,
+ul,
+li {
+  list-style: none;
+  margin: 0 auto;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  @include gobcl;
+  font-weight: 500;
+  margin: 0;
+}
+
+p {
+  margin: 0 auto;
+}
+
+* {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  resize: none;
+}
+
+*:focus {
+  outline: none;
+}
+
+::-webkit-input-placeholder {
+  color: inherit;
+}
+
+::-moz-placeholder {
+  color: inherit;
+}
+
+:-ms-input-placeholder {
+  color: inherit;
+}
+
+table {
+  table-layout: fixed;
+}

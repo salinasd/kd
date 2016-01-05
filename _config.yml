@@ -12,3 +12,6 @@ baseurl: /kd
 # markdown: kramdown
 permalink: pretty
 exclude: ["config.codekit", "README.md", "/archivos"]
+sass:
+    sass_dir: assets/_scss
+    style: compressed
