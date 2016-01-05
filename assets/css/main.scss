@@ -1,12 +1,14 @@
 ---
 ---
 
-@import 'normalize.less';
-@import 'basics.less';
+// @import 'normalize.less';
+// @import 'basics.less';
+
+
 
 body {
 	background:#CDEAF9 url(../img/bg.png) repeat top left;
-	.opensans;
+	// .opensans;
 }
 
 .wrap {
@@ -48,7 +50,7 @@ header {
 		float:right;
 		font-size:13px;
 		width:685px;
-		color:@grey;
+		// color:@grey;
 		line-height:150%;
 	}
 }
@@ -83,7 +85,7 @@ header {
 			}
 		}
 		h3 {
-			color:@blue;
+			// color:@blue;
 			font-size:18px;
 			font-weight:500;
 			margin:0 auto 15px;
@@ -91,7 +93,7 @@ header {
 			height:45px;
 		}
 		p {
-			color:@grey;
+			// color:@grey;
 			font-size:12px;
 			line-height:150%;
 			margin:0 auto 15px;
@@ -102,7 +104,7 @@ header {
 			height:32px;
 			border-bottom:2px solid #BF2B39;
 			color:#fff;
-			.gobcl;
+			// .gobcl;
 			font-size:13px;
 			background:#EE3A43;
 			span {
@@ -110,7 +112,7 @@ header {
 				float:left;
 				height:30px;
 				margin:0;
-				.transition(0.2s);
+				// .transition(0.2s);
 				&.icono {
 					width:30px;
 					background:#BF2B39 url(../img/a-descargar-bg.png) no-repeat center;
@@ -236,7 +238,7 @@ header {
 					font-size:14px;
 					font-weight:700;
 					margin:0 auto 15px;
-					.opensans;
+					// .opensans;
 				}
 				ul {
 					li {
@@ -381,7 +383,7 @@ header {
 footer {
 	.wrap {
 		background:#fff;
-		color:@grey;
+		// color:@grey;
 	}
 	.bicolor {
 		height:2px;
@@ -390,7 +392,7 @@ footer {
 		font-family: 'Open Sans', sans-serif;
 		padding:15px 20px 0;
 		font-size:12px;
-		color:@darkgrey;
+		// color:@darkgrey;
 		.left {
 			float:left;
 		}
@@ -404,7 +406,7 @@ footer {
 			ul {
 				li {
 					float:left;
-					border-right:1px solid @darkgrey;
+					// border-right:1px solid @darkgrey;
 					a {
 						display:block;
 						padding:0 6px;
