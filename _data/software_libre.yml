@@ -1,0 +1,27 @@
+- grupo: "Documentos, presentaciones y hojas de cálculo"
+  items:
+  - nombre: LibreOffice
+    archivo: https://es.libreoffice.org/
+    ga_label: software-libreoffice
+
+  - nombre: OpenOffice
+    archivo: https://www.openoffice.org/es/
+    ga_label: software-openoffice
+
+- grupo: "Edición de imágenes"
+  items:
+  - nombre: Gimp
+    archivo: http://www.gimp.org/
+    ga_label: software-gimp
+
+- grupo: "Navegadores"
+  items:
+  - nombre: Mozilla Firefox
+    archivo: https://www.mozilla.org/es-ES/firefox/desktop/
+    ga_label: software-firefox
+
+- grupo: "Correo electrónico"
+  items:
+  - nombre: Thunderbird
+    archivo: https://www.mozilla.org/ES/thunderbird/
+    ga_label: software-thunderbird

@@ -1,0 +1,81 @@
+---
+layout: angular-app
+title: Generador de firma
+permalink: /generador-de-firma/
+custom-class: single-manual
+---
+
+<div class="item" id="manual-normas-graficas">
+  <div class="icono">
+     <img src="/assets/img/icono-manual-normas-graficas.png">
+  </div>
+  <h3>Manual de Normas Gráficas de Gobierno v3</h3>
+  <p>Manual creado para dar a conocer cómo se aplica la imagen institucional del Gobierno de Chile. Su objetivo es alinear todas las comunicaciones oficiales y simplificar la tarea de todos quienes generan piezas de comunicación para el Gobierno.</p>
+  <a href="http://kitdigital.gob.cl/archivos/Manual_Normas_Graficas-V3.pdf.zip" class="descarga js-track" data-ga-category="descargas_manual" data-ga-action="click" data-ga-label="manual_normas_graficas_v3-gobcl" download>
+    <span class="icono"></span>
+    <span class="texto">Descargar <strong>Manual</strong>  (ZIP)</span>
+  </a>
+</div>
+
+<div class="lista">
+
+  <h3>Generador de <strong>firma</strong></h3>
+
+  <ul class="generador-firma">
+    <li>
+      <label>Nombre:</label> <input type="text" ng-model="nombre" placeholder="Ingresa tu nombre completo">
+    </li>
+    <li>
+      <label>Cargo:</label> <input type="text" ng-model="cargo" placeholder="Ingresa tu cargo">
+    </li>
+    <li>
+      <label>Unidad:</label> <input type="text" ng-model="unidad1" placeholder="Ingresa datos de tu unidad">
+    </li>
+    <li>
+      <label>Unidad 2:</label> <input type="text" ng-model="unidad2" placeholder="Ingresa datos de tu unidad (opcional)">
+    </li>
+    <li>
+      <label>Unidad 3:</label> <input type="text" ng-model="unidad3" placeholder="Ingresa datos de tu unidad (opcional)">
+    </li>
+    <li>
+      <label>Ministerio:</label> <input type="text" ng-model="ministerio" placeholder="Nombre de tu ministerio">
+    </li>
+    <li>
+      <label>Teléfono:</label> <input type="text" ng-model="tel" placeholder="Ej: (t) +562 2111 11 11">
+    </li><li>
+      <label>Teléfono 2:</label> <input type="text" ng-model="tel2" placeholder="Ej: (c) +569 9888 88 88">
+    </li>
+  </ul>
+
+  <div class="instrucciones">
+      <p>Para implementar la firma de mail generada en el recuadro inferior, debes seguir los siguientes pasos:</p>
+      <ul>
+        <li>1. Selecciona la firma generada a con tu información.</li>
+        <li>2. Haz click derecho sobre la selección total y selecciona “copiar”</li>
+        <li>3. Dirígete a la configuración de tu mail para agregar una firma de correo.</li>
+        <li>4. Haz click derecho en el espacio para generar la firma y selecciona “pegar”.​</li>
+      </ul>
+  </div>
+
+  <div class="firma">
+
+    <span class="raya azul">——</span><span class="raya rojo">———</span>
+    <span class="firma-strong">{(nombre || "Nombre ApellidoPaterno ApellidoMaterno")}</span>
+    <span>{(cargo || "Cargo en Unidad X")}</span><br>
+    <span>{(unidad1 || "Unidad de Comunicación Digital")}</span><br>
+    <span>{(unidad2)}</span><br>
+    <span>{(unidad3)}</span>
+
+    <span class="firma-strong">{(ministerio || "Ministerio Secretaría General de Gobierno")} | Gobierno de Chile</span>
+    <span>{(tel || "(t) +562 2111 11 11")}</span><br>
+    <span>{(tel2 || "(c) +569 9888 88 88")}</span>
+
+  </div>
+
+  
+
+
+</div>
+
+
+<div class="cf"></div>

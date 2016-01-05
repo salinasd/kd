@@ -1,0 +1,40 @@
+---
+layout: single
+title: Manual de Normas Gráficas
+permalink: /manual-normas-graficas/
+custom-class: single-manual
+---
+
+<div class="item" id="manual-normas-graficas">
+  <div class="icono">
+     <img src="/assets/img/icono-manual-normas-graficas.png">
+  </div>
+  <h3>Manual de Normas Gráficas de Gobierno v3</h3>
+  <p>Manual creado para dar a conocer cómo se aplica la imagen institucional del Gobierno de Chile. Su objetivo es alinear todas las comunicaciones oficiales y simplificar la tarea de todos quienes generan piezas de comunicación para el Gobierno.</p>
+  <a href="http://kitdigital.gob.cl/archivos/MV3-1_normas-graficas-gobierno-de-chile.pdf.zip" class="descarga js-track" data-ga-category="descargas_manual" data-ga-action="click" data-ga-label="manual_normas_graficas_v3-gobcl" download>
+    <span class="icono"></span>
+    <span class="texto">Descargar <strong>Manual</strong>  (ZIP)</span>
+  </a>
+</div>
+
+<div class="lista">
+
+  <h3><strong>Descargables</strong> Manual Normas Gráficas Gobierno de Chile</h3>
+
+  {% for entry in site.data.manual %}
+  <div class="grupo">
+    <h4>{{ entry.grupo }}</h4>
+    <ul>
+      {% for item in entry.items %}
+      <li><a {% if item.disabled == true %} class="disabled" {% else %} {% if item.link %} href="{{ item.link }}" {% else %} href="/archivos/{{ item.archivo }}" download {% endif %} class="descarga js-track" data-ga-category="descargas_manual" data-ga-action="click" data-ga-label="{{ item.ga_label }}"  {% endif %}>{{ item.nombre }}</a></li>
+      {% endfor %}
+
+    </ul>
+  </div>
+  {% endfor %}
+
+
+</div>
+
+
+<div class="cf"></div>

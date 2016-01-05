@@ -1,0 +1,145 @@
+/* - 980 - */
+@media only screen and (max-width: 980px) {
+  .wrap {
+    width: 720px;
+  }
+  header .desc {
+    float: none;
+    width: 100%;
+    padding: 15px 0 0;
+    clear: both;
+  }
+  footer .bottom nav {
+    float: none;
+    clear: both;
+  }
+  footer .bottom nav ul li:first-child a {
+    padding: 0 6px 0 0;
+  }
+  #content.single-manual .lista {
+    width: 500px;
+    padding: 25px 25px 10px;
+  }
+  #content.single-manual .github-buttons {
+    width: 500px;
+  }
+  #subscribe .bottom .right {
+    width: 480px;
+    padding: 10px 20px;
+  }
+}
+/* - 740 - */
+@media only screen and (max-width: 740px) {
+  .wrap {
+    width: 480px;
+  }
+  #social {
+    display: none;
+    visibility: hidden;
+  }
+  #content.single-manual .item {
+    width: 480px;
+    margin: 0;
+  }
+  #content.single-manual .item div.icono {
+    width: 180px;
+    float: left;
+    margin: 0 0 20px;
+  }
+  #content.single-manual .item h3,
+  #content.single-manual .item p,
+  #content.single-manual .item a.descarga {
+    float: left;
+    width: 260px;
+  }
+  #content.single-manual .item p {
+    height: auto;
+  }
+  #content.single-manual .item #recursos-de-desarrollo-list {
+    float: left;
+  }
+  #content.single-manual .lista {
+    width: 100%;
+  }
+  #content.single-manual .github-buttons {
+    width: 100%;
+  }
+  #content.error404 .texto {
+    padding: 60px 0 100px;
+  }
+  #content.error404 .texto h2 {
+    font-size: 100px;
+  }
+  #content.error404 .texto h3 {
+    font-size: 25px;
+  }
+  #subscribe {
+    height: auto;
+  }
+  #subscribe .bottom .right {
+    float: none;
+    width: 100%;
+    padding: 0;
+    margin: 0 auto 15px;
+  }
+  #subscribe .bottom .left {
+    float: none;
+    width: 100%;
+    padding-right: 0;
+    border-right: none;
+  }
+  #subscribe .bottom .left input {
+    width: 40%;
+  }
+}
+/* - 500 - */
+@media only screen and (max-width: 530px) {
+  .wrap {
+    width: 90%;
+  }
+  #content .item {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto 20px;
+    float: none;
+  }
+  #content .item div.icono {
+    height: 100px;
+  }
+  #content .item h3 {
+    height: auto;
+  }
+  #content .item p {
+    height: auto;
+  }
+  #content.single-manual .item {
+    width: 100%;
+    max-width: 100%;
+  }
+  #content.single-manual .item div.icono {
+    width: 100%;
+    float: none;
+    margin: 0 0 20px;
+  }
+  #content.single-manual .item h3,
+  #content.single-manual .item p,
+  #content.single-manual .item a.descarga {
+    float: none;
+    width: 100%;
+  }
+  #content.single-manual .item #recursos-de-desarrollo-list {
+    float: none;
+  }
+  #content.single-manual .lista {
+    width: 100%;
+  }
+  #content.error404 .texto {
+    padding: 60px 0 100px;
+  }
+  #content.error404 .texto h2 {
+    font-size: 80px;
+  }
+  #content.error404 .texto h3 {
+    font-size: 18px;
+  }
+}

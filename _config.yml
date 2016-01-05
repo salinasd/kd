@@ -1,0 +1,12 @@
+# Site settings
+title: Kit Digital - Gobierno de Chile
+email: kitdigital@msgg.gob.cl
+description: "En este Kit Digital podrás encontrar todas las herramientas necesarias para el desarrollo de productos oficiales de Gobierno."
+url: "http://kitdigital.gob.cl"
+twitter_username: GobiernodeChile
+# github_username:  e-gob
+
+# Build settings
+# markdown: kramdown
+permalink: pretty
+exclude: ["config.codekit", "README.md", "/archivos"]

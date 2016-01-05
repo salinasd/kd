@@ -1,0 +1,15 @@
+- grupo: "Íconos"
+  items:
+  - nombre: Set ilustraciones en lleno
+    archivo: iconos/v1beta_set-ilustraciones-lleno.zip
+    ga_label: iconos_ilustraciones_lleno
+
+  - nombre: Set ilustraciones de contorno​
+    archivo: iconos/v1beta_set-ilustraciones-contorno.zip
+    ga_label: iconos_ilustraciones_contorno
+
+- grupo: "Personas"
+  items:
+  - nombre: Set ilustraciones en lleno
+    archivo: iconos/v0beta_ilustraciones-lleno-personas.zip
+    ga_label: personas_ilustraciones_lleno

@@ -1,0 +1,37 @@
+---
+layout: single
+title: Librería íconos
+permalink: /libreria-iconos/
+custom-class: single-manual
+---
+
+<div class="item" id="manual-normas-graficas">
+  <div class="icono">
+     <img src="/assets/img/icono-libreria-iconos.png">
+  </div>
+  <h3>Librería íconos</h3>
+  <p>Aquí podrás descargar ilustraciones e íconos para ser utilizados tanto en las piezas gráficas de redes sociales como para impresos.<br>
+  Íconos en formato vectorial e imagen.</p>
+</div>
+
+<div class="lista">
+
+  <!-- <h3><strong>Descargables</strong> Manual Normas Gráficas Gobierno de Chile</h3> -->
+
+  {% for entry in site.data.iconos %}
+  <div class="grupo">
+    <h4>{{ entry.grupo }}</h4>
+    <ul>
+      {% for item in entry.items %}
+      <li><a {% if item.archivo %}href="/archivos/{{ item.archivo }}" class="descarga js-track" data-ga-category="descargas_manual" data-ga-action="click" data-ga-label="{{ item.ga_label }}" download {% else %} class="disabled" {% endif %}>{{ item.nombre }}</a></li>
+      {% endfor %}
+
+    </ul>
+  </div>
+  {% endfor %}
+
+
+</div>
+
+
+<div class="cf"></div>

@@ -1,0 +1,578 @@
+- grupo: "Avatares de Ministerios"
+  items:
+
+  - nombre: Ministerio del Interior y Seguridad Pública
+    archivo: avatares/ministerios/V1_01_Ministerio_del_Interior_y_Seguridad_Publica.png
+    ga_label: ministerios_avatar_mininterior
+
+  - nombre: Ministerio de Relaciones Exteriores
+    archivo: avatares/ministerios/V1_02_Ministerio_de_Relaciones_Exteriores.png
+    ga_label: ministerios_avatar_minrel
+
+  - nombre: Ministerio de Defensa Nacional
+    archivo: avatares/ministerios/V1_03_Ministerio_de_Defensa_Nacional.png
+    ga_label: ministerios_avatar_mindefensa
+
+  - nombre: Ministerio de Hacienda
+    archivo: avatares/ministerios/V1_04_Ministerio_de_Hacienda.png
+    ga_label: ministerios_avatar_hacienda
+
+  - nombre: Ministerio Secretaría General de la Presidencia
+    archivo: avatares/ministerios/V1_05_Ministerio_Secretaria_General_de_la_Presidencia.png
+    ga_label: ministerios_avatar_segpres
+
+  - nombre: Ministerio Secretaría General de Gobierno
+    archivo: avatares/ministerios/V1_06_Ministerio_Secretaria_General_de_Gobierno.png
+    ga_label: ministerios_avatar_segegob
+
+  - nombre: Ministerio de Economía, Fomento y Turismo
+    archivo: avatares/ministerios/V1_07_Ministerio_de_Economia_Fomento_y_Turismo.png
+    ga_label: ministerios_avatar_mineconomia
+
+  - nombre: Ministerio de Desarrollo Social
+    archivo: avatares/ministerios/V1_08_Ministerio_de_Desarrollo_Social.png
+    ga_label: ministerios_avatar_mindesarrollosocial
+
+  - nombre: Ministerio de Educación
+    archivo: avatares/ministerios/V1_09_Ministerio_de_Educacion.png
+    ga_label: ministerios_avatar_mineduc
+
+  - nombre: Ministerio de Justicia
+    archivo: avatares/ministerios/V1_10_Ministerio_de_Justicia.png
+    ga_label: ministerios_avatar_minjusticia
+
+  - nombre: Ministerio del Trabajo y Previsión Social
+    archivo: avatares/ministerios/V1_11_Ministerio_del_Trabajo_y_Prevision_Social.png
+    ga_label: ministerios_avatar_mintrabajo
+
+  - nombre: Ministerio de Obras Públicas
+    archivo: avatares/ministerios/V1_12_Ministerio_de_Obras Publicas.png
+    ga_label: ministerios_avatar_minobras
+
+  - nombre: Ministerio de Salud
+    archivo: avatares/ministerios/V1_13_Ministerio_de_Salud.png
+    ga_label: ministerios_avatar_minsal
+
+  - nombre: Ministerio de Vivienda y Urbanismo
+    archivo: avatares/ministerios/V1_14_Ministerio_de_Vivienda_y_Urbanismo.png
+    ga_label: ministerios_avatar_minvu
+
+  - nombre: Ministerio de Agricultura
+    archivo: avatares/ministerios/V1_15_Ministerio_de_Agricultura.png
+    ga_label: ministerios_avatar_minagri
+
+  - nombre: Ministerio de Minería
+    archivo: avatares/ministerios/V1_16_Ministerio_de_Mineria.png
+    ga_label: ministerios_avatar_minmineria
+
+  - nombre: Ministerio de Transportes y Telecomunicaciones
+    archivo: avatares/ministerios/V1_17_Ministerio_de_Transportes_y_Telecomunicaciones.png
+    ga_label: ministerios_avatar_minmtt
+
+  - nombre: Ministerio de Bienes Nacionales
+    archivo: avatares/ministerios/V1_18_Ministerio_de_Bienes Nacionales.png
+    ga_label: ministerios_avatar_minbbnn
+
+  - nombre: Ministerio de Energía
+    archivo: avatares/ministerios/V1_19_Ministerio_de_Energia.png
+    ga_label: ministerios_avatar_minenergia
+
+  - nombre: Ministerio del Medio Ambiente
+    archivo: avatares/ministerios/V1_20_Ministerio_del_Medio_Ambiente.png
+    ga_label: ministerios_avatar_minmedioambiente
+
+  - nombre: Ministerio del Deporte
+    archivo: avatares/ministerios/V1_21_Ministerio_del_Deporte.png
+    ga_label: ministerios_avatar_mindeporte
+
+  - nombre: Servicio Nacional de la Mujer
+    archivo: avatares/ministerios/V1_22_Servicio_Nacional_de_la_Mujer.png
+    ga_label: ministerios_avatar_sernam
+
+  - nombre: Consejo Nacional de la Cultura y las Artes
+    archivo: avatares/ministerios/V1_23_Consejo_Nacional_de_la_Cultura_y_las_Artes.png
+    ga_label: ministerios_avatar_cnca
+
+
+- grupo: "Avatares de Subsecretarías"
+
+  items:
+
+  - nombre: Subsecretaría del Interior 
+    archivo: avatares/subsecretarias/V1_01_Subsecretaria_del_Interior.png 
+    ga_label: subsecretarias_avatar_Subsecretaria_del_Interior
+
+  - nombre: Subsecretaría de Desarrollo Regional y Administrativo 
+    archivo: avatares/subsecretarias/V1_02_Subsecretaria_de_Desarrollo_Regional_y_Administrativo.png 
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Desarrollo_Regional_y_Administrativo 
+
+  - nombre: Subsecretaría de Prevención del Delito 
+    archivo: avatares/subsecretarias/V1_03_Subsecretaria_de_Prevencion_del_Delito.png 
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Prevencion_del_Delito 
+
+  - nombre: Subsecretaría de Relaciones Exteriores 
+    archivo: avatares/subsecretarias/V1_04_Subsecretaria_de_Relaciones_Exteriores.png 
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Relaciones_Exteriores
+
+  - nombre: Subsecretaría de Defensa
+    archivo: avatares/subsecretarias/V1_05_Subsecretaria_de_Defensa.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Defensa
+
+  - nombre: Subsecretaría para las Fuerzas Armadas
+    archivo: avatares/subsecretarias/V1_06_Subsecretaria_para_las_Fuerzas_Armadas.png
+    ga_label: subsecretarias_avatar_Subsecretaria_para_las_Fuerzas_Armadas
+
+  - nombre: Subsecretaría de Hacienda
+    archivo: avatares/subsecretarias/V1_07_Subsecretaria_de_Hacienda.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Hacienda
+
+  - nombre: Subsecretaría General de la Presidencia
+    archivo: avatares/subsecretarias/V1_08_Subsecretaria_General_de_la_Presidencia.png
+    ga_label: subsecretarias_avatar_Subsecretaria_General_de_la_Presidencia
+
+  - nombre: Subsecretaría General de Gobierno
+    archivo: avatares/subsecretarias/V1_09_Subsecretaria_General_de_Gobierno.png
+    ga_label: subsecretarias_avatar_Subsecretaria_General_de_Gobierno
+
+  - nombre: Subsecretaría de Turismo
+    archivo: avatares/subsecretarias/V1_11_Subsecretaria_de_Turismo.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Turismo
+
+  - nombre: Subsecretaría de Pesca y Acuicultura
+    archivo: avatares/subsecretarias/V1_12_Subsecretaria_de_Pesca_y_Acuicultura.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Pesca_y_Acuicultura
+
+  - nombre: Subsecretaría de Evaluacin Social
+    archivo: avatares/subsecretarias/V1_13_Subsecretaria_de_Evaluacion_Social.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Evaluacion_Social
+
+  - nombre: Subsecretaría de Servicios Sociales
+    archivo: avatares/subsecretarias/V1_14_Subsecretaria_de_Servicios_Sociales.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Servicios_Sociales
+
+  - nombre: Subsecretaría de Educación
+    archivo: avatares/subsecretarias/V1_15_Subsecretaria_de_Educacion.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Educacion
+
+  - nombre: Subsecretaría de Justicia
+    archivo: avatares/subsecretarias/V1_16_Subsecretaria_de_Justicia.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Justicia
+
+  - nombre: Subsecretaría del Trabajo
+    archivo: avatares/subsecretarias/V1_17_Subsecretaria del Trabajo.png
+    ga_label: subsecretarias_avatar_Subsecretaria del Trabajo
+
+  - nombre: Subsecretaría de Prevision Social
+    archivo: avatares/subsecretarias/V1_18_Subsecretaria_de_Prevision_Social.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Prevision_Social
+
+  - nombre: Subsecretaría de Obras Públicas
+    archivo: avatares/subsecretarias/V1_19_Subsecretaria_de_Obras_Publicas.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Obras_Publicas
+
+  - nombre: Subsecretaría de Salud Pública
+    archivo: avatares/subsecretarias/V1_20_Subsecretaria_de_Salud_Publica.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Salud_Publica
+
+  - nombre: Subsecretaría de Redes Asistenciales
+    archivo: avatares/subsecretarias/V1_21_Subsecretaria_de_Redes_Asistenciales.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Redes_Asistenciales
+
+  - nombre: Subsecretaría de Vivienda y Urbanismo
+    archivo: avatares/subsecretarias/V1_22_Subsecretaria_de_Vivienda_y_Urbanismo.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Vivienda_y_Urbanismo
+
+  - nombre: Subsecretaría de Agricultura
+    archivo: avatares/subsecretarias/V1_23_Subsecretaria_de_Agricultura.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Agricultura
+
+  - nombre: Subsecretaría de Minería
+    archivo: avatares/subsecretarias/V1_24_Subsecretaria_de_Mineria.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Mineria
+
+  - nombre: Subsecretaría de Transportes
+    archivo: avatares/subsecretarias/V1_25_Subsecretaria_de_Transportes.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Transportes
+
+  - nombre: Subsecretaría de Telecomunicaciones
+    archivo: avatares/subsecretarias/V1_26_Subsecretaria_de_Telecomunicaciones.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Telecomunicaciones
+
+  - nombre: Subsecretaría de Bienes Nacionales
+    archivo: avatares/subsecretarias/V1_27_Subsecretaria_de_Bienes_Nacionales.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Bienes_Nacionales
+
+  - nombre: Subsecretaría de Energia
+    archivo: avatares/subsecretarias/V1_28_Subsecretaria_de_Energia.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Energia
+
+  - nombre: Subsecretaría del Medio Ambiente
+    archivo: avatares/subsecretarias/V1_29_Subsecretaria_del_Medio_Ambiente.png
+    ga_label: subsecretarias_avatar_Subsecretaria_del_Medio_Ambiente
+
+  - nombre: Subsecretaría de Deportes
+    archivo: avatares/subsecretarias/V1_30_Subsecretaria_de_Deportes.png
+    ga_label: subsecretarias_avatar_Subsecretaria_de_Deportes
+
+
+- grupo: "Avatares de Intendencias"
+  items:
+
+  - nombre: Región de Arica y Parinacota
+    archivo: avatares/intendencias/V1_01_Intendencia_XV_Region_de_Arica_y_Parinacota.zip
+    ga_label: intendencias_logo_arica
+
+  - nombre: Región de Tarapacá
+    archivo: avatares/intendencias/V1_02_Intendencia_I_Region_de_Tarapaca.zip
+    ga_label: intendencias_logo_tarapaca
+
+  - nombre: Región de Antofagasta
+    archivo: avatares/intendencias/V1_03_Intendencia_II_Region_de_Antofagasta.zip
+    ga_label: intendencias_logo_antofagasta
+
+  - nombre: Región de Atacama
+    archivo: avatares/intendencias/V1_04_Intendencia_III_Region_de_Atacama.zip
+    ga_label: intendencias_logo_atacama
+
+  - nombre: Región de Coquimbo
+    archivo: avatares/intendencias/V1_05_Intendencia_IV_Region_de_Coquimbo.zip
+    ga_label: intendencias_logo_coquimbo
+
+  - nombre: Región de Valparaíso
+    archivo: avatares/intendencias/V1_06_Intendencia_V_Region_de_Valparaiso.zip
+    ga_label: intendencias_logo_valparaiso
+
+  - nombre: Region Metropolitana de Santiago
+    archivo: avatares/intendencias/V1_07_Intendencia_RM_Region_Metropolitana_de_Santiago.zip
+    ga_label: intendencias_logo_metropolitana
+
+  - nombre: Región del Libertador General Bernardo OHiggins
+    archivo: avatares/intendencias/V1_08_Intendencia_VI_Region_del_Libertador_General_Bernardo_OHiggins.zip
+    ga_label: intendencias_logo_ohiggins
+
+  - nombre: Región del Maule
+    archivo: avatares/intendencias/V1_09_Intendencia_VII_Region_del_Maule.zip
+    ga_label: intendencias_logo_maule
+
+  - nombre: Región del Biobío
+    archivo: avatares/intendencias/V1_10_Intendencia_VIII_Region_del_Biobio.zip
+    ga_label: intendencias_logo_biobio
+
+  - nombre: Región de La Araucanía
+    archivo: avatares/intendencias/V1_11_Intendencia_IX_Region_de_La_Araucania.zip
+    ga_label: intendencias_logo_araucania
+
+  - nombre: Región de Los Ríos
+    archivo: avatares/intendencias/V1_12_Intendencia_XIV_Region_de_Los_Rios.zip
+    ga_label: intendencias_logo_losrios
+
+  - nombre: Región de Los Lagos
+    archivo: avatares/intendencias/V1_13_Intendencia_X_Region_de_Los_Lagos.zip
+    ga_label: intendencias_logo_loslagos
+
+  - nombre: Region Aisén del General Carlos Ibáñez del Campo
+    archivo: avatares/intendencias/V1_14_Intendencia_XI_Region_Aisen_del_General_Carlos_Ibanez_del_Campo.zip
+    ga_label: intendencias_logo_aisen
+
+  - nombre: Región de Magallanes y de la Antártica Chilena
+    archivo: avatares/intendencias/V1_15_Intendencia_XII_Region_de_Magallanes_y_de_la_Antartica_Chilena.zip
+    ga_label: intendencias_logo_magallanes
+
+
+- grupo: "Avatares de Gobernaciones"
+  items:
+
+  - nombre: Gobernación Provincia de Arica
+    archivo: avatares/gobernaciones/V1_01_Gobernacion_Provincia_de_Arica.png
+    ga_label: gobernaciones_Provincia_de_Arica
+
+  - nombre: Gobernación Provincia de Parinacota
+    archivo: avatares/gobernaciones/V1_02_Gobernacion_Provincia_de_Parinacota.png
+    ga_label: gobernaciones_Provincia_de_Parinacota
+
+  - nombre: Gobernación Provincia de Iquique
+    archivo: avatares/gobernaciones/V1_03_Gobernacion_Provincia_de_Iquique.png
+    ga_label: gobernaciones_Provincia_de_Iquique
+
+  - nombre: Gobernación Provincia del Tamarugal
+    archivo: avatares/gobernaciones/V1_04_Gobernacion_Provincia_del_Tamarugal.png
+    ga_label: gobernaciones_Provincia_del_Tamarugal
+
+  - nombre: Gobernación Provincia de Antofagasta
+    archivo: avatares/gobernaciones/V1_05_Gobernacion_Provincia_de_Antofagasta.png
+    ga_label: gobernaciones_Provincia_de_Antofagasta
+
+  - nombre: Gobernación Provincia de El Loa
+    archivo: avatares/gobernaciones/V1_06_Gobernacion_Provincia_de_El_Loa.png
+    ga_label: gobernaciones_Provincia_de_El_Loa
+
+  - nombre: Gobernación Provincia de Tocopilla
+    archivo: avatares/gobernaciones/V1_07_Gobernacion_Provincia_de_Tocopilla.png
+    ga_label: gobernaciones_Provincia_de_Tocopilla
+
+  - nombre: Gobernación Provincia de Copiapó
+    archivo: avatares/gobernaciones/V1_08_Gobernacion_Provincia_de_Copiapo.png
+    ga_label: gobernaciones_Provincia_de_Copiapo
+
+  - nombre: Gobernación Provincia de Huasco
+    archivo: avatares/gobernaciones/V1_09_Gobernacion_Provincia_de_Huasco.png
+    ga_label: gobernaciones_Provincia_de_Huasco
+
+  - nombre: Gobernación Provincia de Chanaral
+    archivo: avatares/gobernaciones/V1_10_Gobernacion_Provincia_de_Chanaral.png
+    ga_label: gobernaciones_Provincia_de_Chanaral
+
+  - nombre: Gobernación Provincia de Elqui
+    archivo: avatares/gobernaciones/V1_11_Gobernacion_Provincia_de_Elqui.png
+    ga_label: gobernaciones_Provincia_de_Elqui
+
+  - nombre: Gobernación Provincia de Limarí
+    archivo: avatares/gobernaciones/V1_12_Gobernacion_Provincia_de_Limari.png
+    ga_label: gobernaciones_Provincia_de_Limari
+
+  - nombre: Gobernación Provincia de Choapa
+    archivo: avatares/gobernaciones/V1_13_Gobernacion_Provincia_de_Choapa.png
+    ga_label: gobernaciones_Provincia_de_Choapa
+
+  - nombre: Gobernación Provincia de Valparaíso
+    archivo: avatares/gobernaciones/V1_14_Gobernacion_Provincia_de_Valparaiso.png
+    ga_label: gobernaciones_Provincia_de_Valparaiso
+
+  - nombre: Gobernación Provincia de Quillota
+    archivo: avatares/gobernaciones/V1_15_Gobernacion_Provincia_de_Quillota.png
+    ga_label: gobernaciones_Provincia_de_Quillota
+
+  - nombre: Gobernación Provincia de San Antonio
+    archivo: avatares/gobernaciones/V1_16_Gobernacion_Provincia_de_San_Antonio.png
+    ga_label: gobernaciones_Provincia_de_San_Antonio
+
+  - nombre: Gobernación Provincia de San Felipe de Aconcagua
+    archivo: avatares/gobernaciones/V1_17_Gobernacion_Provincia_de_San_Felipe_de_Aconcagua.png
+    ga_label: gobernaciones_Provincia_de_San_Felipe_de_Aconcagua
+
+  - nombre: Gobernación Provincia de Los Andes
+    archivo: avatares/gobernaciones/V1_18_Gobernacion_Provincia_de_Los_Andes.png
+    ga_label: gobernaciones_Provincia_de_Los_Andes
+
+  - nombre: Gobernación Provincia de Petorca
+    archivo: avatares/gobernaciones/V1_19_Gobernacion_Provincia_de_Petorca.png
+    ga_label: gobernaciones_Provincia_de_Petorca
+
+  - nombre: Gobernación Provincia de Isla de Pascua
+    archivo: avatares/gobernaciones/V1_20_Gobernacion_Provincia_de_Isla_de_Pascua.png
+    ga_label: gobernaciones_Provincia_de_Isla_de_Pascua
+
+  - nombre: Gobernación Provincia de Marga Marga
+    archivo: avatares/gobernaciones/V1_21_Gobernacion_Provincia_de_Marga_Marga.png
+    ga_label: gobernaciones_Provincia_de_Marga_Marga
+
+  - nombre: Gobernación Provincia de Maipo
+    archivo: avatares/gobernaciones/V1_22_Gobernacion_Provincia_de_Maipo.png
+    ga_label: gobernaciones_Provincia_de_Maipo
+
+  - nombre: Gobernación Provincia Cordillera
+    archivo: avatares/gobernaciones/V1_23_Gobernacion_Provincia_Cordillera.png
+    ga_label: gobernaciones_Provincia_Cordillera
+
+  - nombre: Gobernación Provincia de Talagante
+    archivo: avatares/gobernaciones/V1_24_Gobernacion_Provincia_de_Talagante.png
+    ga_label: gobernaciones_Provincia_de_Talagante
+
+  - nombre: Gobernación Provincia de Melipilla
+    archivo: avatares/gobernaciones/V1_25_Gobernacion_Provincia_de_Melipilla.png
+    ga_label: gobernaciones_Provincia_de_Melipilla
+
+  - nombre: Gobernación Provincia de Chacabuco
+    archivo: avatares/gobernaciones/V1_26_Gobernacion_Provincia_de_Chacabuco.png
+    ga_label: gobernaciones_Provincia_de_Chacabuco
+
+  - nombre: Gobernación Provincia de Cachapoal
+    archivo: avatares/gobernaciones/V1_27_Gobernacion_Provincia_de_Cachapoal.png
+    ga_label: gobernaciones_Provincia_de_Cachapoal
+
+  - nombre: Gobernación Provincia de Colchagua
+    archivo: avatares/gobernaciones/V1_28_Gobernacion_Provincia_de_Colchagua.png
+    ga_label: gobernaciones_Provincia_de_Colchagua
+
+  - nombre: Gobernación Provincia Cardenal Caro
+    archivo: avatares/gobernaciones/V1_29_Gobernacion_Provincia_Cardenal_Caro.png
+    ga_label: gobernaciones_Provincia_Cardenal_Caro
+
+  - nombre: Gobernación Provincia de Talca
+    archivo: avatares/gobernaciones/V1_30_Gobernacion_Provincia_de_Talca.png
+    ga_label: gobernaciones_Provincia_de_Talca
+
+  - nombre: Gobernación Provincia de Curico
+    archivo: avatares/gobernaciones/V1_31_Gobernacion_Provincia_de_Curico.png
+    ga_label: gobernaciones_Provincia_de_Curico
+
+  - nombre: Gobernación Provincia de Linares
+    archivo: avatares/gobernaciones/V1_32_Gobernacion_Provincia_de_Linares.png
+    ga_label: gobernaciones_Provincia_de_Linares
+
+  - nombre: Gobernación Provincia de Cauquenes
+    archivo: avatares/gobernaciones/V1_33_Gobernacion_Provincia_de_Cauquenes.png
+    ga_label: gobernaciones_Provincia_de_Cauquenes
+
+  - nombre: Gobernación Provincia de Concepción
+    archivo: avatares/gobernaciones/V1_34_Gobernacion_Provincia_de_Concepcion.png
+    ga_label: gobernaciones_Provincia_de_Concepcion
+
+  - nombre: Gobernación Provincia de Nuble
+    archivo: avatares/gobernaciones/V1_35_Gobernacion_Provincia_de_Nuble.png
+    ga_label: gobernaciones_Provincia_de_Nuble
+
+  - nombre: Gobernación Provincia de Biobío
+    archivo: avatares/gobernaciones/V1_36_Gobernacion_Provincia_de_Biobio.png
+    ga_label: gobernaciones_Provincia_de_Biobio
+
+  - nombre: Gobernación Provincia de Arauco
+    archivo: avatares/gobernaciones/V1_37_Gobernacion_Provincia_de_Arauco.png
+    ga_label: gobernaciones_Provincia_de_Arauco
+
+  - nombre: Gobernación Provincia de Cautín
+    archivo: avatares/gobernaciones/V1_38_Gobernacion_Provincia_de_Cautin.png
+    ga_label: gobernaciones_Provincia_de_Cautin
+
+  - nombre: Gobernación Provincia de Malleco
+    archivo: avatares/gobernaciones/V1_39_Gobernacion_Provincia_de_Malleco.png
+    ga_label: gobernaciones_Provincia_de_Malleco
+
+  - nombre: Gobernación Provincia de Valdivia
+    archivo: avatares/gobernaciones/V1_40_Gobernacion_Provincia_de_Valdivia.png
+    ga_label: gobernaciones_Provincia_de_Valdivia
+
+  - nombre: Gobernación Provincia del Ranco
+    archivo: avatares/gobernaciones/V1_41_Gobernacion_Provincia_del_Ranco.png
+    ga_label: gobernaciones_Provincia_del_Ranco
+
+  - nombre: Gobernación Provincia de Llanquihue
+    archivo: avatares/gobernaciones/V1_42_Gobernacion_Provincia_de_Llanquihue.png
+    ga_label: gobernaciones_Provincia_de_Llanquihue
+
+  - nombre: Gobernación Provincia de Osorno
+    archivo: avatares/gobernaciones/V1_43_Gobernacion_Provincia_de_Osorno.png
+    ga_label: gobernaciones_Provincia_de_Osorno
+
+  - nombre: Gobernación Provincia de Chiloé
+    archivo: avatares/gobernaciones/V1_44_Gobernacion_Provincia_de_Chiloe.png
+    ga_label: gobernaciones_Provincia_de_Chiloe
+
+  - nombre: Gobernación Provincia de Palena
+    archivo: avatares/gobernaciones/V1_45_Gobernacion_Provincia_de_Palena.png
+    ga_label: gobernaciones_Provincia_de_Palena
+
+  - nombre: Gobernación Provincia de Coihaique
+    archivo: avatares/gobernaciones/V1_46_Gobernacion_Provincia_de_Coihaique.png
+    ga_label: gobernaciones_Provincia_de_Coihaique
+
+  - nombre: Gobernación Provincia de Aisén
+    archivo: avatares/gobernaciones/V1_47_Gobernacion_Provincia_de_Aisen.png
+    ga_label: gobernaciones_Provincia_de_Aisen
+
+  - nombre: Gobernación Provincia General Carrera
+    archivo: avatares/gobernaciones/V1_48_Gobernacion_Provincia_General_Carrera.png
+    ga_label: gobernaciones_Provincia_General_Carrera
+
+  - nombre: Gobernación Provincia Capitan Prat
+    archivo: avatares/gobernaciones/V1_49_Gobernacion_Provincia_Capitan_Prat.png
+    ga_label: gobernaciones_Provincia_Capitan_Prat
+
+  - nombre: Gobernación Provincia de Magallanes
+    archivo: avatares/gobernaciones/V1_50_Gobernacion_Provincia_de_Magallanes.png
+    ga_label: gobernaciones_Provincia_de_Magallanes
+
+  - nombre: Gobernación Provincia Ultima Esperanza
+    archivo: avatares/gobernaciones/V1_51_Gobernacion_Provincia_Ultima_Esperanza.png
+    ga_label: gobernaciones_Provincia_Ultima_Esperanza
+
+  - nombre: Gobernación Provincia Tierra del Fuego
+    archivo: avatares/gobernaciones/V1_52_Gobernacion_Provincia_Tierra_del_Fuego.png
+    ga_label: gobernaciones_Provincia_Tierra_del_Fuego
+
+  - nombre: Gobernación Provincia Antártica Chilena
+    archivo: avatares/gobernaciones/V1_53_Gobernacion_Provincia_Antartica_Chilena.png
+    ga_label: gobernaciones_Provincia_Antartica_Chilena
+
+  - nombre: Gobernación Provincia de Santiago
+    archivo: avatares/gobernaciones/V1_54_Gobernacion_Provincia_de_Santiago.png
+    ga_label: gobernaciones_Provincia_de_Santiago
+
+
+- grupo: "Avatares de Gobiernos Regionales"
+  items:
+
+  - nombre: Gobierno Regional XV Región de Arica y Parinacota
+    archivo: avatares/gobiernos_regionales/V1_01_Gobierno_Regional_XV_Region_de_Arica_y_Parinacota.png
+    ga_label: Gobierno_Regional_XV_Region_de_Arica_y_Parinacota
+
+  - nombre: Gobierno Regional I Región de Tarapaca
+    archivo: avatares/gobiernos_regionales/V1_02_Gobierno_Regional_I_Region_de_Tarapaca.png
+    ga_label: Gobierno_Regional_I_Region_de_Tarapaca
+
+  - nombre: Gobierno Regional II Región de Antofagasta
+    archivo: avatares/gobiernos_regionales/V1_03_Gobierno_Regional_II_Region_de_Antofagasta.png
+    ga_label: Gobierno_Regional_II_Region_de_Antofagasta
+
+  - nombre: Gobierno Regional III Región de Atacama
+    archivo: avatares/gobiernos_regionales/V1_04_Gobierno_Regional_III_Region_de_Atacama.png
+    ga_label: Gobierno_Regional_III_Region_de_Atacama
+
+  - nombre: Gobierno Regional IV Región de Coquimbo
+    archivo: avatares/gobiernos_regionales/V1_05_Gobierno_Regional_IV_Region_de_Coquimbo.png
+    ga_label: Gobierno_Regional_IV_Region_de_Coquimbo
+
+  - nombre: Gobierno Regional V Región de Valparaíso
+    archivo: avatares/gobiernos_regionales/V1_06_Gobierno_Regional_V_Region_de_Valparaiso.png
+    ga_label: Gobierno_Regional_V_Region_de_Valparaiso
+
+  - nombre: Gobierno Regional RM Región Metropolitana de Santiago
+    archivo: avatares/gobiernos_regionales/V1_07_Gobierno_Regional_RM_Region_Metropolitana_de_Santiago.png
+    ga_label: Gobierno_Regional_RM_Region_Metropolitana_de_Santiago
+
+  - nombre: Gobierno Regional VI Región del Libertador General Bernardo OHiggins
+    archivo: avatares/gobiernos_regionales/V1_08_Gobierno_Regional_VI_Region_del_Libertador_General_Bernardo_OHiggins.png
+    ga_label: Gobierno_Regional_VI_Region_del_Libertador_General_Bernardo_OHiggins
+
+  - nombre: Gobierno Regional VII Región del Maule
+    archivo: avatares/gobiernos_regionales/V1_09_Gobierno_Regional_VII_Region_del_Maule.png
+    ga_label: Gobierno_Regional_VII_Region_del_Maule
+
+  - nombre: Gobierno Regional VIII Región del Biobío
+    archivo: avatares/gobiernos_regionales/V1_10_Gobierno_Regional_VIII_Region_del_Biobio.png
+    ga_label: Gobierno_Regional_VIII_Region_del_Biobio
+
+  - nombre: Gobierno Regional IX Región de La Araucania
+    archivo: avatares/gobiernos_regionales/V1_11_Gobierno_Regional_IX_Region_de_La_Araucania.png
+    ga_label: Gobierno_Regional_IX_Region_de_La_Araucanía
+
+  - nombre: Gobierno Regional XIV Región de Los Ríos
+    archivo: avatares/gobiernos_regionales/V1_12_Gobierno_Regional_XIV_Region_de_Los_Rios.png
+    ga_label: Gobierno_Regional_XIV_Region_de_Los_Rios
+
+  - nombre: Gobierno Regional X Región de Los Lagos
+    archivo: avatares/gobiernos_regionales/V1_13_Gobierno_Regional_X_Region_de_Los_Lagos.png
+    ga_label: Gobierno_Regional_X_Region_de_Los_Lagos
+
+  - nombre: Gobierno Regional XI Región Aisén del General Carlos Ibañez del Campo
+    archivo: avatares/gobiernos_regionales/V1_14_Gobierno_Regional_XI_Region_Aisen_del_General_Carlos_Ibanez_del_Campo.png
+    ga_label: Gobierno_Regional_XI_Region_Aisen_del_General_Carlos_Ibanez_del_Campo
+
+  - nombre: Gobierno Regional XII Región de Magallanes y de la Antártica Chilena
+    archivo: avatares/gobiernos_regionales/V1_15_Gobierno_Regional_XII_Region_de_Magallanes_y_de_la_Antartica_Chilena.png
+    ga_label: Gobierno_Regional_XII_Region_de_Magallanes_y_de_la_Antartica_Chilena
+
+- grupo: "Insumos"
+  items:
+
+  - nombre: "Paleta cromática"
+    archivo: insumos/v1_rrss-Paleta_Cromatica_RRSS.zip
+    ga_label: redes_plantilla_estandar
+
+  - nombre: "Plantilla: Gráfica estándar"
+    archivo: insumos/v1_rrss-Grafica-Estandar.zip
+    ga_label: redes_paleta_cromatica
+
+  - nombre: "Plantilla: Gráfica duplex"
+    archivo: insumos/v1_rrss-Grafica-Duplex.zip
+    ga_label: redes_plantilla_duplex

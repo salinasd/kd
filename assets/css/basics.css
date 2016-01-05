@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  position: relative;
+  background: #f4f4f4;
+}
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit;
+  -webkit-transition: 0.1s;
+  -moz-transition: 0.1s;
+  -ms-transition: 0.1s;
+  -o-transition: 0.1s;
+  transition: 0.1s;
+}
+menu,
+ol,
+ul,
+li {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  font-family: 'gobCL', Tahoma, Verdana, Segoe, sans-serif;
+  font-weight: 500;
+}
+p {
+  margin: 0 auto;
+}
+a img {
+  float: left;
+}
+* {
+  resize: none;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+}
+*:focus {
+  outline: none;
+}
+::-webkit-input-placeholder {
+  color: inherit;
+}
+:-moz-placeholder {
+  color: inherit;
+}
+::-moz-placeholder {
+  color: inherit;
+}
+:-ms-input-placeholder {
+  color: inherit;
+}
+table {
+  table-layout: fixed;
+}
+.cf:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.hidden {
+  display: none;
+  visibility: hidden;
+}
+.bicolor {
+  position: relative;
+  min-height: 1px;
+}
+.bicolor span {
+  display: block;
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+.bicolor span.blue {
+  background: #0168b3;
+}
+.bicolor span.red {
+  background: #ee3a43;
+}
+div.sep {
+  width: 100%;
+  height: 0;
+  border-bottom: 1px solid #e6e6e6;
+}
+@font-face {
+  font-family: 'gobCL';
+  font-weight: 300;
+  font-style: normal;
+  src: url('../fonts/gobcl_light.eot?') format('eot'), url('../fonts/gobcl_light.woff') format('woff'), url('../fonts/gobcl_light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gobCL';
+  font-weight: 500;
+  font-style: normal;
+  src: url('../fonts/gobcl_regular.eot?') format('eot'), url('../fonts/gobcl_regular.woff') format('woff'), url('../fonts/gobcl_regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gobCL';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/gobcl_bold.eot?') format('eot'), url('../fonts/gobcl_bold.woff') format('woff'), url('../fonts/gobcl_bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'gobCL';
+  font-weight: 900;
+  font-style: normal;
+  src: url('../fonts/gobcl_heavy.eot?') format('eot'), url('../fonts/gobcl_heavy.woff') format('woff'), url('../fonts/gobcl_heavy.ttf') format('truetype');
+}
+.gobcl {
+  font-family: 'gobCL', Tahoma, Verdana, Segoe, sans-serif;
+}
+.georgia {
+  font-family: Georgia, Times, "Times New Roman", serif;
+}
+.opensans {
+  font-family: 'Open Sans', sans-serif;
+}
